@@ -7,4 +7,4 @@ Modeling and Simulation for UAV Air-to-Ground mmWave Channels https://ncrl.seu.e
 ## Survey Articles
 
 Seven Defining Features of Terahertz (THz) Wireless Systems: A Fellowship of Communication and Sensing https://arxiv.org/abs/2102.07668
-![Frequency Spectrum](/images/spectrum.jpg)
+![Frequency Spectrum](/figures/spectrum.jpg)
