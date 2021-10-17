@@ -1,4 +1,4 @@
-** Quasi-Deterministic Channel Model
+## Quasi-Deterministic Channel Model
 
 Quasi-Deterministic Channel Model for mmWaves: Mathematical Formalization and Validation https://arxiv.org/pdf/2006.01235.pdf
 
